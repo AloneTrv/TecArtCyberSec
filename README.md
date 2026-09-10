@@ -1,14 +1,16 @@
 # Identitas
 
-Nama: I Gusti Agung Bagaskara
-NIM: 260530911041
+Nama: I Gusti Agung Bagaskara\
+NIM: 260530911041\
 Kategori CTF: Web
 
 # Tools Yang Berhasil Di instalasi:
-WSL:
-  Ubuntu
+WSL:Ubuntu
+<br>
 Git
+<br>
 GitHub
+<br>
 Python
 
 # Proses Instalasi WSL:
@@ -93,3 +95,6 @@ namun ternyata penulisan format yang di google salah dan saya pun menggunakan cl
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d990ae19-c042-4421-bf77-d5079a50201f" />
 
 
+# Referensi
+https://stackoverflow.com/questions/66228621/base64-decode-command-linux-cli-command
+https://askubuntu.com/questions/390631/how-to-rename-file-names-replacing-underscores-with-spaces-in-a-shell-comman
