@@ -89,4 +89,7 @@ namun ternyata penulisan format yang di google salah dan saya pun menggunakan cl
 <img width="1475" height="752" alt="Selesai(10)" src="https://github.com/user-attachments/assets/50451091-68df-48fe-950b-40433957623b" />
 
 # Web
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e24d30a2-b6af-4f44-b222-7ad41d7969d3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d990ae19-c042-4421-bf77-d5079a50201f" />
+
 
